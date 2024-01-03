@@ -1,0 +1,32 @@
+{
+  "version": 2,
+  "dgSpecHash": "WfjT7Hq9gLyafRV7pyA3F0JDpj8Gi4IqY58kyWH1pdGNz1Ta9k3fbOCqM9/HgkghU+LH+WELl5SeBO304fcwvQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ray48\\source\\repos\\wpf7\\2023_WpfApp6\\2023_WpfApp6.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ray48\\.nuget\\packages\\livecharts\\0.9.7\\livecharts.0.9.7.nupkg.sha512",
+    "C:\\Users\\ray48\\.nuget\\packages\\livecharts.wpf\\0.9.7\\livecharts.wpf.0.9.7.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "已使用 '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' 而非專案目標架構 'net6.0-windows7.0' 還原了套件 'LiveCharts 0.9.7'。此套件與您的專案並非完全相容。",
+      "libraryId": "LiveCharts",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "已使用 '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' 而非專案目標架構 'net6.0-windows7.0' 還原了套件 'LiveCharts.Wpf 0.9.7'。此套件與您的專案並非完全相容。",
+      "libraryId": "LiveCharts.Wpf",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    }
+  ]
+}
